@@ -1,7 +1,7 @@
 <h1 align="center">AdemDEV — Intermediate Developer</h1>
 
 <p align="center">
-  Hi, I'm <strong>Ozz</strong>, a fullstack developer from the UK.<br/>
+  Hi, I'm <strong>Adem</strong>, a developer from Scotland.<br/>
   I primarily work with <strong>TypeScript</strong> and build systems & tooling for Minecraft (Java + Bedrock).
 </p>
 
