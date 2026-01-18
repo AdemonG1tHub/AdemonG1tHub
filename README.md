@@ -25,25 +25,24 @@
 </picture>
 
 <hr/>
-
-__NexusSMP__
+## My Projects / Past Projects
+### __NexusSMP__
 NexusSMP was a popular SMP server throughout 2025. It grew substantially and gained roughly 800 members from September 2024 to July 2025.
 
 We then later merged with another server called CrabSMP (3.5k members). 
 
 NexusSMP was known for its great features such as a fully custom engine; advanced moderation; active and super friendly staff; and a fairly active community.
-
 We had our ups and downs but I personally learnt a whole lot throughout my time owning it. 
 
 The skills I learnt then was the following: Managing Servers and Realms (preparing spawns, events, and making addons work together). 
 
 I then also began my journey with the MC Scripting API.
 
-__CrabSMP__
+### __CrabSMP__
 
 A very popular Minecraft Realm (now discontinued) I was a Sr Staff member there and contributed to investigations, staffing, and much more. During my time there I learnt about Teamwork, Moderation, and more.
 
-__AstralCraft__
+### __AstralCraft__
 A new server (not much well known). Still underdevelopment but in our Alpha stage of the server, we were running a Java and Bedrock cross play server. Featuring a fully custom build Java PaperMC plugin. 
 
 Coded fully by me! 
@@ -52,11 +51,11 @@ Now with the announcement of Season 2; I am working on my latest project Astral-
 
 All fully custom coded by again, me!
 
-__Realm Explorer__
+### __Realm Explorer__
 A server similar dedicated for other server / realm owners advertising their own Networks. A unique feature of RE is its RE Hub, featuring a Realm where you can browse servers / realms, connect directly to servers on consoles, and soon much more!
 
 
-**Enough about my projects..**
+***Enough about my projects..***
 
 Now over the course of 2025 and my projects, I have learnt many things and have a lot planned / in store for 2026 in the Minecraft community.
 
