@@ -1,8 +1,7 @@
 <h1 align="center">AdemDEV — Intermediate Developer</h1>
 
 <p align="center">
-  Hi, I'm <strong>Adem</strong>, a developer from Scotland.<br/>
-  I primarily work with <strong>TypeScript</strong> and build systems & tooling for Minecraft (Java + Bedrock).
+  Hello, my name is <strong>Adem</strong> (more known as AdemDEV). I am a  fairly new MCBE developer. I have made a couple projects in the past which I am about to go over, if you got any questions, let me know!<br/>
 </p>
 
 <p align="center">
@@ -26,9 +25,6 @@
 </picture>
 
 <hr/>
-# AdemDEV | Portfolio
-
-Hello, my name is Adem (more known as AdemDEV). I am a  fairly new MCBE developer. I have made a couple projects in the past which I am about to go over, if you got any questions, let me know!
 
 __NexusSMP__
 NexusSMP was a popular SMP server throughout 2025. It grew substantially and gained roughly 800 members from September 2024 to July 2025.
