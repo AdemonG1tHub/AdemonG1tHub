@@ -25,7 +25,10 @@
 </picture>
 
 <hr/>
+
+
 ## My Projects / Past Projects
+
 ### __NexusSMP__
 NexusSMP was a popular SMP server throughout 2025. It grew substantially and gained roughly 800 members from September 2024 to July 2025.
 
