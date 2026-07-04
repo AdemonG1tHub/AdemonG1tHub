@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  Owner of <b>Gilded Studios</b> · <b>3+ projects</b> built · Intermediate Developer
+  Executive @ <b>NetherGate LLC</b> · <b>5+ projects</b> built · Intermediate Developer
 </p>
 
 ---
@@ -82,25 +82,26 @@
 
 <h2 align="center">🚀 Projects</h2>
 
-<h3 align="center">🌌 CrabSMP Engine</h3>
+<h3 align="center">🌌 NetherGate LLC</h3>
 <p align="center">
-  Full-featured Minecraft Bedrock server engine — RPG levelling, factions, quest system,<br/>
-  custom shop menu, NPC handlers, sidebar HUD, and Discord embed integration.
+  A new organisation designed to collaborate with server owners, developers, builders,<br/>
+  and more! We assist our affiliates with free development services and our asset library.
 </p>
 <p align="center">
   <b>Tags:</b> TypeScript · Python · Endstone · Discord.js<br/>
-  <a href="https://discord.gg/crabsmp">Join the Discord</a> •
-  <a href="https://crabsmp.net">Visit the Website</a>
+  <a href="https://discord.gg/nethergate">Join the Discord</a> •
+  <a href="https://nethergate.llc">Visit the Website WiP</a> •
+  <a href="https://github.com/nethergate-llc">Our GitHub Org</a>
 </p>
 
-<h3 align="center">🌐 Realm Explorer</h3>
+<h3 align="center">🌐 Astral-Engine</h3>
 <p align="center">
-  A discovery platform for Minecraft Bedrock Realms & Servers.<br/>
-  Featuring RE Hub which allows you to join Bedrock servers on console.
+  A fully fledged out Minecraft Bedrock project consisting of many<br/>
+  unique fully tested modules. Designed for now discontinued AstralCraft, and now for sale.
 </p>
 <p align="center">
-  <b>Tags:</b> Scripting API · Discord<br/>
-  <a href="https://discord.gg/realmexplorer">Join the Discord</a>
+  <b>Tags:</b> MCBE Scripting API · Endstone API<br/>
+  <a href="https://ademdev.xyz/#/astral-engine">View More / Buy</a>
 </p>
 
 <h3 align="center">⚔️ Gilded Utilities <sup><i>WIP</i></sup></h3>
@@ -110,17 +111,7 @@
 </p>
 <p align="center">
   <b>Tags:</b> TypeScript · JSON UI
-</p>
-
-<h3 align="center">🛡️ Pixel Badge Icon Pack</h3>
-<p align="center">
-  A collection of 9 pixel art badge-like icons for Discord bots, Minecraft servers,<br/>
-  or any other project. Free to use with attribution.
-</p>
-<p align="center">
-  <b>Tags:</b> Pixel Art · Free Resource<br/>
-  <a href="https://discord.gg/jJT58SFTEy">Download on Discord</a>
-</p>
+</p
 
 <h3 align="center">🐍 Embed Creator <sup><i>WIP</i></sup></h3>
 <p align="center">
@@ -196,7 +187,7 @@
 
 <p align="center">
   If you're looking for <b>clean, scalable, production-ready systems</b>, feel free to reach out.<br/>
-  <a href="https://discord.gg/jJT58SFTEy"><b>Discord</b></a> •
+  <a href="https://discord.gg/nethergate"><b>Discord</b></a> •
   <a href="https://github.com/AdemonG1tHub"><b>GitHub</b></a> •
   <a href="https://ademdev.xyz/"><b>Website</b></a> •
 </p>
