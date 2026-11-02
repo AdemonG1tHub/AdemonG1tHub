@@ -2,6 +2,8 @@ Hey, my name is Adem and I am a MCBE Developer mostly doing Script API. I build 
 
 I mainly only do Scripting however I am able to reuse / modify my *owned* UI's on my Portfolio (and in the image attached), they were not created by me though.
 
+If you need something done, contact me from below! (my prices are very small compared to other developers, as I am trying to build on my Portfolio)
+
 ## __Stuff I've made__
 
 • **[Octane Skygen](https://ademdev.xyz/#/Octane-Skygen)** shop system with customisable NPCs that open Chest UI shops
@@ -25,8 +27,11 @@ I mainly only do Scripting however I am able to reuse / modify my *owned* UI's o
 ## Contact / Other
 
 -> Portfolio: https://ademdev.xyz
+
 -> Discord: `ademondiscrd`
+
 -> GitHub: https://github.com/AdemonG1tHub
+
 -> Email: `ademdev@skyrosmc.com`
 
 *Not affiliated with Mojang Studios.*
